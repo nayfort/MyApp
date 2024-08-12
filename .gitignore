@@ -26,12 +26,14 @@ DerivedData
 #
 build/
 .idea
+package-lock.json
 .gradle
 local.properties
 *.iml
 *.hprof
 .cxx/
 *.keystore
+.bundle/
 !debug.keystore
 
 # node.js
